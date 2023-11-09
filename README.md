@@ -10,3 +10,5 @@ One of the outputs of Do_Clustering.m is variable times_filename that itself con
 
 Single-unit firing rate was calculated as the number of spikes within a single unit cluster divided by the duration of recording (in seconds).
 Multiunit firing rate was calculated as the total number of spikes with all single unit clusters divided by the duration of recording (in seconds).
+
+DOI: 10.5281/zenodo.10092944
